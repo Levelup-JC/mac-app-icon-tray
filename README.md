@@ -16,6 +16,14 @@
   <img alt="Scope" src="https://img.shields.io/badge/scope-icons%20only-8b5cf6?style=flat-square" />
 </p>
 
+<p align="center">
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="AppKit" src="https://img.shields.io/badge/AppKit-555555?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
 ---
 
 ## 为什么需要这个 skill
